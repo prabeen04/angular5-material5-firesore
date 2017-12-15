@@ -1,0 +1,15 @@
+.mat-menu{
+    padding: 1px;
+    margin-right: 15px;
+    cursor: pointer;
+}
+.mat-menu > a{
+    text-decoration: none;
+    }
+.mat-menu:hover{
+
+    color: #434347 !important;
+}
+.example-spacer{
+    flex: 1 1 auto;
+}

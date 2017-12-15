@@ -1,0 +1,14 @@
+mat-card{
+    width: 40vw;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-content: center;
+    align-items: center;
+}
+.flex-item{
+
+}
